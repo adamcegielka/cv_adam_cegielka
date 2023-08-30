@@ -15,7 +15,7 @@ You can see my CV in action at the link below:
 
 - `index.html`: The main HTML file containing the structure of the CV.
 - `index_pl.html`: HTML file containing the structure of the CV in Polish.
-- `style.css`: CSS file containing the page styles and layout.
+- `css/`: Folder containing the page styles and layout.
 - `images/`: Directory containing the images used in the CV.
 
 ## Technologies
