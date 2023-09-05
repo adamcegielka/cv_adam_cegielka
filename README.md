@@ -1,4 +1,5 @@
 # Adam Cegiełka - CV
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7cb54e36-f583-400d-bfe8-c21cb567d9b1/deploy-status)](https://app.netlify.com/sites/cv-adam-cegielka/deploys)
 
 This is a repository containing my CV written in HTML and styled with CSS.
