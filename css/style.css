@@ -28,8 +28,9 @@ aside {
 
 .contact-links {
   color: #ffffff;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 20px;
+  text-decoration: none;
 }
 
 .bold {
@@ -46,13 +47,17 @@ aside {
   list-style-position: inside;
 }
 
-.list-secondary-item {
-  color: #ffffff;
-}
-
 .contact-block {
   margin-top: 51px;
   margin-left: 40px;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.contact-block a {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .tech-skills-block {
